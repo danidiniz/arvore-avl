@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1499888853 source:c:\users\daniel diniz\documents\codeblocks\arvoreavl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arv_avl.c"
+	"menu.c"
+
+1499887545 c:\users\daniel diniz\documents\codeblocks\arvoreavl\arv_avl.h
+
+1499888399 c:\users\daniel diniz\documents\codeblocks\arvoreavl\arv_avl.c
+	<stdio.h>
+	<stdlib.h>
+	"arv_avl.h"
+
+1499888818 c:\users\daniel diniz\documents\codeblocks\arvoreavl\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"arv_avl.h"
+	"menu.h"
+
+1499888837 c:\users\daniel diniz\documents\codeblocks\arvoreavl\menu.h
+
